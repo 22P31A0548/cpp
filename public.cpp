@@ -1,3 +1,4 @@
+//22P31A0548
 #include<iostream>
 using namespace std;
 class Square{
@@ -14,7 +15,7 @@ int main(){
 	Square s1(12);
 	Square s2(8);
 	cout<<s1.GetArea()<<endl;
-    s1.side=4;
+        s1.side=4;
 	cout<<s.GetArea()<<endl;
 	return 0;
 }
